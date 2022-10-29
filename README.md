@@ -4,8 +4,6 @@
 
 ![Alexvidalcor's github stats](https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=midnight-purple&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvidalcor&layout=compact&theme=dark)
-
 ---
 
 🔭  **I’m currently working on:**
