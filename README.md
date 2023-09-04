@@ -1,17 +1,17 @@
 ### Hi there 👋
 
----
+<br>
 
 ### 📊 GitHub Stats:
 
 ![Alexvidalcor's github stats](https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=midnight-purple&show_icons=true)
 
----
+<br>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexvidalcor&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Stars)
 
----
+<br>
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%23FF9900.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +24,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
----
+<br>
 
 ### 📫 How to reach me:
 
