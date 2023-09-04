@@ -27,21 +27,25 @@ Thank you for visiting my profile, and I hope you find my contributions valuable
 
 Let's make automation and efficiency our common goal! 🤖💡
 
+<details>
+<summary><b>📈 Stats</b></summary>
 
 <br>
 
-### 📊 GitHub Stats:
+### 📊 GitHub info:
 
 ![Alexvidalcor's github stats](https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=midnight-purple&show_icons=true)
 
 <br>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub trophies
 ![Github-Trophies](https://github-profile-trophy.vercel.app/?username=alexvidalcor&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Stars)
 
 <br>
 
-### 💻 Tech Stack:
+</details>
+
+### 💻 Tech stack:
 ![Python](https://img.shields.io/badge/Python-%23FF9900.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23FF9900.svg?style=for-the-badge&logo=r&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
