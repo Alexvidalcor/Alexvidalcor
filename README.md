@@ -2,6 +2,8 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&multiline=true&width=535&height=100&lines=Alexvidalcor;Devops+engineer;Cloud+%7C+Python+%7C+Data)](https://git.io/typing-svg)
+
 ### 💫 About me:
 
 I'm a passionate DevOps engineer with a strong background in process automation, cloud infrastructure management, and data analytics. My primary focus is on enhancing processes efficiency and reliability through the implementation of DevOps practices and the use of modern tools.
@@ -35,7 +37,7 @@ Let's make automation and efficiency our common goal! 🤖💡
 <br>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alexvidalcor&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Stars)
+![Github-Trophies](https://github-profile-trophy.vercel.app/?username=alexvidalcor&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Stars)
 
 <br>
 
@@ -71,6 +73,6 @@ Let's make automation and efficiency our common goal! 🤖💡
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Alexvidalcor&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Visit-Counter](https://visitcount.itsvg.in/api?id=Alexvidalcor&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Thanks to GPRM ( https://gprm.itsvg.in ) -->
