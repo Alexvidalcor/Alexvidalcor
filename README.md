@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=70&multiline=true&width=535&height=80&lines=Alexvidalcor;DevOps+engineer;Cloud+%7C+Python+%7C+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=70&center=true&vCenter=true&multiline=true&width=470&height=150&lines=Alexvidalcor;DevOps+engineer;Cloud+%7C+Python+%7C+Data)](https://git.io/typing-svg)![Alexvidalcor's github stats](https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=tokyonight&show_icons=true)
 
 ### 💫 About me:
 
@@ -61,8 +61,7 @@ Let's make automation and efficiency our common goal! 🤖💡
 <br>
 
 ### 📊 GitHub info:
-
-![Alexvidalcor's github stats](https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=midnight-purple&show_icons=true)
+![Alexvidalcor's github stats](https://github-readme-streak-stats.herokuapp.com/?user=alexvidalcor&theme=tokyonight&hide_border=false)
 
 <br>
 
