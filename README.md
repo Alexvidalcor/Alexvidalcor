@@ -5,7 +5,6 @@
 ### 📊 GitHub Stats:
 
 ![Alexvidalcor's github stats](https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=midnight-purple&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexvidalcor&theme=midnight-purple&hide_border=false)
 
 ---
 
