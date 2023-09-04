@@ -4,24 +4,18 @@
 
 ### 💫 About me:
 
-I'm a passionate DevOps engineer with a strong background in process automation, cloud infrastructure management, and data analytics. My primary focus is on enhancing system efficiency and reliability through the implementation of DevOps practices and the use of modern tools.
+I'm a passionate DevOps engineer with a strong background in process automation, cloud infrastructure management, and data analytics. My primary focus is on enhancing processes efficiency and reliability through the implementation of DevOps practices and the use of modern tools.
 
-
-💼 Professional Experience:
+🚀 Key skills:
 - Development and maintenance of CI/CD pipelines.
-- Docker containerization and orchestration.
-- Cloud environment management using AWS, Azure, and Google Cloud.
-- Implementation of monitoring and alerting solutions.
-- Data analysis for informed decision-making.
-
-🚀 Key Technologies and Skills:
 - Python programming language for automation and tool development.
-- Advanced Linux system knowledge for server configuration and management.
+- Advanced Linux system knowledge.
 - Docker for creating and running containerized applications.
 - Expertise in cloud resource management (AWS, Azure, GCP).
 - Familiarity with orchestration tools like Kubernetes.
+- Implementation of monitoring and alerting solutions.
+- Data analysis for informed decision-making.
 - Effective collaboration in cross-functional teams.
-
 
 My goal here on GitHub is to share my knowledge, contribute to open-source projects, and learn from the community.
 
