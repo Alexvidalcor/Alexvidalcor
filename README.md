@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=80&multiline=true&width=535&height=80&lines=Alexvidalcor;Devops+engineer;Cloud+%7C+Python+%7C+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=80&multiline=true&width=535&height=80&lines=Alexvidalcor;DevOps+engineer;Cloud+%7C+Python+%7C+Data)](https://git.io/typing-svg)
 
 ### 💫 About me:
 
