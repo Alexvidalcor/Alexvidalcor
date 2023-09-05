@@ -61,7 +61,7 @@ Let's make automation and efficiency our common goal! 🤖💡
 <br>
 
 <details>
-<summary><b>📈 Stats</b></summary>
+<summary><h3><b>📈 Stats</b></h3></summary>
 
 <br>
 
