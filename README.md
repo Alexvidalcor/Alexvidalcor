@@ -1,8 +1,13 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/alexvidalcor">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=70&center=true&vCenter=true&multiline=true&width=470&height=100&lines=Alexvidalcor;DevOps+engineer;Cloud+%7C+Python+%7C+Data">
+    <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=tokyonight&show_icons=true">
+  </a>
+</p>
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=70&center=true&vCenter=true&multiline=true&width=470&height=150&lines=Alexvidalcor;DevOps+engineer;Cloud+%7C+Python+%7C+Data)](https://git.io/typing-svg)![Alexvidalcor's github stats](https://github-readme-stats.vercel.app/api?username=alexvidalcor&theme=tokyonight&show_icons=true)
 
 ### 💫 About me:
 
