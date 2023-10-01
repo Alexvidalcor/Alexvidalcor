@@ -85,6 +85,4 @@ Let's make automation and efficiency our common goal! 🤖💡
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Alexvidalcor&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 <!-- Thanks to GPRM ( https://gprm.itsvg.in ) -->
